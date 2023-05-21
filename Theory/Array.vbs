@@ -116,6 +116,4 @@ WScript.Echo matched(2)
 WScript.Echo "Not matched values"
 WScript.Echo notMatched(0)
 
-'TEST commit'
-
 
